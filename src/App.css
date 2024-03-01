@@ -224,12 +224,16 @@ justify-content: center;
     margin: 10px 0;
   }
   .logo{
+    margin-top: 5px;
     width: 8rem;
     height:7rem;
   }
   .redes{
-    margin: 10px 0  ;
+    margin: 5px 0  ;
     width: 85%;
+  }
+  .icons{
+    font-size: 20 px;
   }
   main{
     padding: 32px 30px;
@@ -239,8 +243,12 @@ justify-content: center;
   }
 }
 @media(max-width:920px){
+  .profile{
+    width: 8rem;
+    height: 7rem;
+  }
   .name{
-    margin-top:25px;
+    margin-top:10px;
     font-size: 17px;
   }
 }
@@ -293,8 +301,8 @@ justify-content: center;
   .logo2{
     width: 4rem;
     height: 3rem;
-    
   }
+  
   .profile{
     width: 4rem;
     height: 4rem;
@@ -328,9 +336,10 @@ justify-content: center;
     flex-direction: column;
     width: 80%;
     align-items: center;
+    margin: 5px 0 0 0;
   }
   .icons{
-    font-size: 20px
+    font-size: 16px
   }
   .lenguajes{
     width: 25%;
