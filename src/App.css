@@ -304,7 +304,7 @@ justify-content: center;
   }
   
   .profile{
-    width: 4rem;
+    width: 5rem;
     height: 4rem;
   }
   .name{
@@ -336,10 +336,10 @@ justify-content: center;
     flex-direction: column;
     width: 80%;
     align-items: center;
-    margin: 5px 0 0 0;
+    margin: 10px 0 0 0;
   }
   .icons{
-    font-size: 16px
+    font-size: 18px
   }
   .lenguajes{
     width: 25%;
