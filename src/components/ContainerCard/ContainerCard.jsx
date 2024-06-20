@@ -11,9 +11,11 @@ export const ContainerCard = () => {
     <>
     <div className='containerCard'>
         <Project photo={proyecto1} title="Bleux" desc={"Este proyecto fue uno de mis primeras paginas responsive"} link={"https://bleux-daniel.netlify.app"} />
-        <Project photo={proyecto2} title="Graphel" desc={"Este proyecto fue cuando estaba aprendiendo display flex"} link={"https://daniel9974532.github.io/Graphel/"}/>
+        <Project photo={proyecto2} title="Graphel" desc={"Este proyecto fue cuando estaba aprendiendo display flex"} link={"https://daniel-osorio-escobar.github.io/Graphel/"}/>
         <Project photo={proyecto3} title="Tecno plus" desc={"Este proyecto es sobre una tienda de telefonos y auricurales el cual cuenta con su carrito de compras"} link={"https://incomparable-lamington-ed5449.netlify.app"}/>
-        <Project photo={proyecto4} title="Apptastico" desc={"Este proyecto fue uno de mis primeras paginas responsive"} link={"https://daniel9974532.github.io/taller-falla/"} />
+        <Project photo={proyecto4} title="Apptastico" desc={"Este proyecto fue uno de mis primeras paginas responsive"} link={"https://daniel-osorio-escobar.github.io/taller-falla/"} />
+        <Project photo={proyecto4} title="Gestor de tareas" desc={"Este proyecto fue realizado con react y usando contex"} link={"https://daniel-osorio-escobar.github.io/gestorDeTareas/"} />
+
     </div>
     </>
   )
